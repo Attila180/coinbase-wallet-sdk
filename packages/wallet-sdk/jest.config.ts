@@ -26,6 +26,7 @@ export default {
     "./src/relay/WalletSDKRelay.ts",
     "./src/relay/WalletSDKRelayEventManager.ts",
     "./src/components/**/*.tsx",
+    "./src/provider/SolanaProvider.ts",
   ],
   // The directory where Jest should output its coverage files
   coverageDirectory: "coverage",
